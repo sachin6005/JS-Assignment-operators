@@ -19,3 +19,6 @@ console.log(x5=x5-1)
 
 var x6 = 1
 console.log(x6-=1)
+
+var x7 = 1
+console.log(x7+=1)
